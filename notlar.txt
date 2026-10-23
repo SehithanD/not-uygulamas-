@@ -1,0 +1,1 @@
+ls: bu kod dosyaları listeler, mkdir: yeni klasör oluşturur, rm: seçili dosyayı siler
