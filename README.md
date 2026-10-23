@@ -1,1 +1,3 @@
-Geliştirici: Sehithan Delibalta (main versiyonu)
+
+Geliştirici: Sehithan Delibalta (main ve feature versiyonlarının birleşimi)
+

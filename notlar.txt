@@ -1,1 +1,12 @@
-ls: bu kod dosyaları listeler, mkdir: yeni klasör oluşturur, rm: seçili dosyayı siler
+Terminal kodları:
+
+ls: bu kod dosyaları listeler, 
+mkdir: yeni klasör oluşturur, 
+rm: seçili dosyayı siler
+
+Git kodları:
+
+git status: dosyaların güncel durumunu gösterir
+git log: commitleri listeler
+git add: dosyayı gitin takip etmesini sağla
+
