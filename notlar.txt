@@ -10,3 +10,4 @@ git status: dosyaların güncel durumunu gösterir
 git log: commitleri listeler
 git add: dosyayı gitin takip etmesini sağla
 
+tetikleyici
